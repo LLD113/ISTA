@@ -1,0 +1,6 @@
+NC-cover: 0.8265177408854166 #test cases: 3 #adversarial examples: 0
+NC-cover: 0.9135335286458334 #test cases: 4 #adversarial examples: 0 #diff: 0.9791372567415237 #layer: 0 #pos: (8, 27, 7)
+NC-cover: 0.94000244140625 #test cases: 5 #adversarial examples: 0 #diff: 0.983058825135231 #layer: 0 #pos: (19, 22, 9)
+NC-cover: 0.95196533203125 #test cases: 6 #adversarial examples: 0 #diff: 0.983058825135231 #layer: 0 #pos: (31, 38, 15)
+NC-cover: 0.9561971028645834 #test cases: 7 #adversarial examples: 0 #diff: 0.983058825135231 #layer: 0 #pos: (24, 50, 4)
+NC-cover: 0.9652099609375 #test cases: 8 #adversarial examples: 0 #diff: 0.9869803935289383 #layer: 0 #pos: (15, 23, 2)

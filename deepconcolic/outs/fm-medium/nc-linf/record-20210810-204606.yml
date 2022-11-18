@@ -1,0 +1,351 @@
+adversarials: [ ]
+norm: Linf
+passed_tests:
+  - index: 0
+    label: 4
+    md5: f320bd0312b79c492b2393d4756f8493
+    root_index: 0
+  - gen_test_id: 0
+    index: 1
+    label: 4
+    md5: f9810fe6a9bf77234d217f07b34a0e14
+    origin_dist: 0.031372578471314694
+    origin_index: 0
+    root_dist: 0.031372578471314694
+    root_index: 0
+  - gen_test_id: 1
+    index: 2
+    label: 4
+    md5: 96c92e2e1f9b9f7260c9017322334ba5
+    origin_dist: 0.050980392156862786
+    origin_index: 1
+    root_dist: 0.08235296945945891
+    root_index: 0
+  - gen_test_id: 2
+    index: 3
+    label: 4
+    md5: 52ea79794e00a92a8fc731b9f2a98c2e
+    origin_dist: 0.027450980392156876
+    origin_index: 2
+    root_dist: 0.1098039463454602
+    root_index: 0
+  - gen_test_id: 3
+    index: 4
+    label: 4
+    md5: b81fdf6aefdbc8071c4d07138d3145de
+    origin_dist: 0.05490199023602055
+    origin_index: 0
+    root_dist: 0.05490199023602055
+    root_index: 0
+  - gen_test_id: 4
+    index: 5
+    label: 4
+    md5: a53473d1144bafcaa63ee5fd52fcdcdb
+    origin_dist: 0.07058823529411773
+    origin_index: 4
+    root_dist: 0.12549022085526412
+    root_index: 0
+  - gen_test_id: 5
+    index: 6
+    label: 4
+    md5: e3a1733605fd25dae3f8dd67fe44a2f4
+    origin_dist: 0.03921568627450989
+    origin_index: 5
+    root_dist: 0.1647059071297739
+    root_index: 0
+  - gen_test_id: 6
+    index: 7
+    label: 4
+    md5: 32b6b1d34969f8f839e0c5f804f5344b
+    origin_dist: 0.0313725490196079
+    origin_index: 6
+    root_dist: 0.19607845498066323
+    root_index: 0
+  - gen_test_id: 7
+    index: 8
+    label: 4
+    md5: 849bb032a60b64159d816256a01f8044
+    origin_dist: 0.01176470588235301
+    origin_index: 7
+    root_dist: 0.20784316086301619
+    root_index: 0
+  - gen_test_id: 8
+    index: 9
+    label: 4
+    md5: 4e39c03099fc8e1e5e38cdec4071e685
+    origin_dist: 0.04313725490196085
+    origin_index: 5
+    root_dist: 0.16862747575722487
+    root_index: 0
+  - gen_test_id: 9
+    index: 10
+    label: 4
+    md5: 6474bf59e61b9f0de911a19b0f4bedc1
+    origin_dist: 0.0745098039215687
+    origin_index: 9
+    root_dist: 0.2431372796787935
+    root_index: 0
+  - gen_test_id: 10
+    index: 11
+    label: 4
+    md5: bf3a1ce6c4c7b19d92a9d5a150664391
+    origin_dist: 0.09019607843137256
+    origin_index: 5
+    root_dist: 0.21568629811791812
+    root_index: 0
+  - gen_test_id: 11
+    index: 12
+    label: 4
+    md5: 6ed3335c3673486d1e6b30fffbe8aea7
+    origin_dist: 0.01176470588235301
+    origin_index: 11
+    root_dist: 0.22745100400027107
+    root_index: 0
+  - gen_test_id: 12
+    index: 13
+    label: 4
+    md5: 56914ee68c5e29ce47ac12abc1ba6bff
+    origin_dist: 0.09803921568627455
+    origin_index: 5
+    root_dist: 0.2235294353728201
+    root_index: 0
+  - gen_test_id: 13
+    index: 14
+    label: 4
+    md5: 7c79d78d9d8bda69af9454781f20f74f
+    origin_dist: 0.019607843137254943
+    origin_index: 13
+    root_dist: 0.243137278510075
+    root_index: 0
+  - gen_test_id: 14
+    index: 15
+    label: 4
+    md5: 0a315a7daf5dfac45e7837cc46850e59
+    origin_dist: 0.09411764705882358
+    origin_index: 4
+    root_dist: 0.14901963145125147
+    root_index: 0
+  - gen_test_id: 15
+    index: 16
+    label: 4
+    md5: 3b6c11bdf084bd3278d61de1b4710dba
+    origin_dist: 0.07843139732585236
+    origin_index: 0
+    root_dist: 0.07843139732585236
+    root_index: 0
+  - gen_test_id: 16
+    index: 17
+    label: 4
+    md5: 759ee5c86469d33f17ff7c1cf5560a70
+    origin_dist: 0.04705882352941182
+    origin_index: 16
+    root_dist: 0.12549022085526412
+    root_index: 0
+  - gen_test_id: 17
+    index: 18
+    label: 4
+    md5: 9111fc7485a2e6a65d7e9d820eb6f1df
+    origin_dist: 0.0745098039215687
+    origin_index: 17
+    root_dist: 0.2000000236081142
+    root_index: 0
+  - gen_test_id: 18
+    index: 19
+    label: 4
+    md5: 878e864fa428069d18156588f0d73bdb
+    origin_dist: 0.05882352941176472
+    origin_index: 17
+    root_dist: 0.18431374909831028
+    root_index: 0
+  - gen_test_id: 19
+    index: 20
+    label: 4
+    md5: 35e453f0f21fb3dad4617a8ee8501a68
+    origin_dist: 0.0862745098039216
+    origin_index: 1
+    root_dist: 0.11764708243164362
+    root_index: 0
+  - gen_test_id: 20
+    index: 21
+    label: 4
+    md5: 61dad836c1e2abb7281a625d819d9d06
+    origin_dist: 0.02352941176470591
+    origin_index: 20
+    root_dist: 0.14117649419634948
+    root_index: 0
+  - gen_test_id: 21
+    index: 22
+    label: 4
+    md5: 7fafc40efba57d3498e42c20d3050fe8
+    origin_dist: 0.10196078431372552
+    origin_index: 20
+    root_dist: 0.21960786674536908
+    root_index: 0
+  - gen_test_id: 22
+    index: 23
+    label: 4
+    md5: 3a7e8af1de4be861103ff0681b73f5b6
+    origin_dist: 0.015686274509803977
+    origin_index: 17
+    root_dist: 0.14117649536506804
+    root_index: 0
+  - gen_test_id: 23
+    index: 24
+    label: 4
+    md5: 490a2cb0fb4b255206bf9e26c5977838
+    origin_dist: 0.050980392156862786
+    origin_index: 23
+    root_dist: 0.19215688635321226
+    root_index: 0
+  - gen_test_id: 24
+    index: 25
+    label: 4
+    md5: 89bfe7c4b3ce29f284d969e690c8c47b
+    origin_dist: 0.03529411764705892
+    origin_index: 24
+    root_dist: 0.22745100400027107
+    root_index: 0
+  - gen_test_id: 25
+    index: 26
+    label: 4
+    md5: 1046ed6e818a6c1f518698da5bef9c93
+    origin_dist: 0.01176470588235301
+    origin_index: 16
+    root_dist: 0.09019610320820526
+    root_index: 0
+  - gen_test_id: 26
+    index: 27
+    label: 4
+    md5: 8f6185e5760940c972efdeddd8a05fdd
+    origin_dist: 0.007843137254902044
+    origin_index: 18
+    root_dist: 0.20784316086301619
+    root_index: 0
+  - gen_test_id: 27
+    index: 28
+    label: 4
+    md5: 7781db4fd92fea3e3a35cfcb333b4f48
+    origin_dist: 0.0313725490196079
+    origin_index: 24
+    root_dist: 0.2235294353728201
+    root_index: 0
+  - gen_test_id: 28
+    index: 29
+    label: 4
+    md5: 00bd9c689137ab833c64767626bd23c5
+    origin_dist: 0.07843137254901966
+    origin_index: 15
+    root_dist: 0.22745100400027107
+    root_index: 0
+  - gen_test_id: 29
+    index: 30
+    label: 4
+    md5: ccebb0a8c92ec1d1f8130a3c11f8f300
+    origin_dist: 0.019607843137254943
+    origin_index: 20
+    root_dist: 0.1372549255688985
+    root_index: 0
+  - gen_test_id: 30
+    index: 31
+    label: 4
+    md5: 48b5599783cc3b85c8aa7e00f998d6e8
+    origin_dist: 0.0745098039215687
+    origin_index: 20
+    root_dist: 0.19215688635321226
+    root_index: 0
+  - gen_test_id: 31
+    index: 32
+    label: 4
+    md5: 7cd67c891dafad9420402a8a3fb6ba33
+    origin_dist: 0.04313725490196085
+    origin_index: 24
+    root_dist: 0.235294141255173
+    root_index: 0
+  - gen_test_id: 32
+    index: 33
+    label: 4
+    md5: 0c6e05770bff2c2fca713b95262be6c5
+    origin_dist: 0.01176470588235301
+    origin_index: 32
+    root_dist: 0.24705884713752596
+    root_index: 0
+  - gen_test_id: 33
+    index: 34
+    label: 4
+    md5: 418d57ece7fd31bf314fedcf90514500
+    origin_dist: 0.0980392156862746
+    origin_index: 30
+    root_dist: 0.2352941262955759
+    root_index: 0
+  - gen_test_id: 34
+    index: 35
+    label: 4
+    md5: bddf5e65630b9ce196aec04fc2f710c0
+    origin_dist: 0.050980392156862786
+    origin_index: 31
+    root_dist: 0.243137278510075
+    root_index: 0
+  - gen_test_id: 35
+    index: 36
+    label: 4
+    md5: f1352b88e21b9d99d69fe591de3772c1
+    origin_dist: 0.09803921568627455
+    origin_index: 21
+    root_dist: 0.23921570988262403
+    root_index: 0
+  - gen_test_id: 36
+    index: 37
+    label: 4
+    md5: efb92f3e7a59b9134de23242f0c86ad5
+    origin_dist: 0.015686274509803977
+    origin_index: 20
+    root_dist: 0.13333335694144755
+    root_index: 0
+  - gen_test_id: 37
+    index: 38
+    label: 4
+    md5: 40d22337848d19d555d2b54e7e10ee16
+    origin_dist: 0.015686274509803977
+    origin_index: 20
+    root_dist: 0.13333335694144755
+    root_index: 0
+  - gen_test_id: 38
+    index: 39
+    label: 4
+    md5: bb10c8804b94f413456e6cf65a6833fb
+    origin_dist: 0.019607843137254943
+    origin_index: 31
+    root_dist: 0.21176472949046715
+    root_index: 0
+  - gen_test_id: 39
+    index: 40
+    label: 4
+    md5: 5be4d1d553efab696c24d88d6cdba5e8
+    origin_dist: 0.050980392156862786
+    origin_index: 31
+    root_dist: 0.243137278510075
+    root_index: 0
+  - gen_test_id: 40
+    index: 41
+    label: 4
+    md5: 3850c5c1979c6658d5c2fdc82d0e1a2c
+    origin_dist: 0.03529411764705892
+    origin_index: 31
+    root_dist: 0.22745100400027107
+    root_index: 0
+  - gen_test_id: 41
+    index: 42
+    label: 4
+    md5: 877cdc76010f0db289b3ec83546f2b77
+    origin_dist: 0.019607843137254943
+    origin_index: 41
+    root_dist: 0.24705884713752596
+    root_index: 0
+  - gen_test_id: 42
+    index: 43
+    label: 4
+    md5: 8ae4008dd219613d8dfa94ba6849c700
+    origin_dist: 0.019607843137254943
+    origin_index: 29
+    root_dist: 0.24705884503383263
+    root_index: 0

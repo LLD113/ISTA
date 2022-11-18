@@ -1,0 +1,23 @@
+adversarials: [ ]
+norm: Linf
+passed_tests:
+  - index: 2
+    label: 0
+    md5: b03ba9857101f97e95b08005d08dd658
+    root_index: 2
+  - index: 1
+    label: 0
+    md5: 3efd5b1482e3e7d0374be998d15ad240
+    root_index: 1
+  - index: 2
+    label: 0
+    md5: b03ba9857101f97e95b08005d08dd658
+    root_index: 2
+  - gen_test_id: 0
+    index: 2
+    label: 0
+    md5: 4d31f5870adec2610b46b1ef36747e21
+    origin_dist: 0.9791372567415237
+    origin_index: 1
+    root_dist: 0.9791372567415237
+    root_index: 1

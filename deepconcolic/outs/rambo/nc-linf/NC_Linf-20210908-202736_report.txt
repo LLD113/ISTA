@@ -1,0 +1,2 @@
+NC-cover: 0.8387451171875 #test cases: 3 #adversarial examples: 0
+NC-cover: 0.8996175130208334 #test cases: 4 #adversarial examples: 0 #diff: 0.983058825135231 #layer: 0 #pos: (28, 34, 7)

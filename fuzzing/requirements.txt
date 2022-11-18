@@ -1,0 +1,10 @@
+numpy==1.16.2
+keras==2.2.4
+sklearn
+scipy
+matplotlib
+absl-py
+pyflann-py3
+h5py
+cleverhans
+opencv-python

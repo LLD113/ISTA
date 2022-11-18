@@ -1,0 +1,55 @@
+adversarials: [ ]
+norm: Linf
+passed_tests:
+  - index: 0
+    label: 0
+    md5: ebc8883d3bafe6dabad245285ea45841
+    root_index: 0
+  - index: 1
+    label: 0
+    md5: aee9b4adaa9ac5d8aaef9357695ab8f4
+    root_index: 1
+  - index: 2
+    label: 0
+    md5: db9ac5dcf598e3018c652a6c6fe5f2eb
+    root_index: 2
+  - gen_test_id: 0
+    index: 3
+    label: 0
+    md5: 205d67dd5f4ebcd4bca24b60bdf57854
+    origin_dist: 0.9791372567415237
+    origin_index: 2
+    root_dist: 0.9791372567415237
+    root_index: 2
+  - gen_test_id: 1
+    index: 4
+    label: 0
+    md5: 1c1761beb4432cfd56fa5b17bd92f660
+    origin_dist: 0.983058825135231
+    origin_index: 0
+    root_dist: 0.983058825135231
+    root_index: 0
+  - gen_test_id: 2
+    index: 5
+    label: 0
+    md5: 9ca939de6eea81948776238cafb1c414
+    origin_dist: 0.983058825135231
+    origin_index: 1
+    root_dist: 0.983058825135231
+    root_index: 1
+  - gen_test_id: 3
+    index: 6
+    label: 0
+    md5: 943dd94dd60a97c1ede9efb1dde622b5
+    origin_dist: 0.983058825135231
+    origin_index: 0
+    root_dist: 0.983058825135231
+    root_index: 0
+  - gen_test_id: 4
+    index: 7
+    label: 0
+    md5: 7dc18e863842f599912b21f391531cb0
+    origin_dist: 0.9869803935289383
+    origin_index: 1
+    root_dist: 0.9869803935289383
+    root_index: 1
